@@ -1,0 +1,1 @@
+sed -i 's/Instance2 from av zone 2/Instance1 from us-east-2a/g' /home/ubuntu/opstest-master/src/main/resources/application.properties
